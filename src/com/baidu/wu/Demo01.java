@@ -10,6 +10,7 @@ public class Demo01 {
         System.out.println("hello git");
 
         System.out.println("版本迭代");
+        System.out.println("master test");
 
     }
 }
